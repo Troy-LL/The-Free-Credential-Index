@@ -47,9 +47,12 @@ Think of every **category** as a **section of the library**. You don't need to r
 
 1. **🎯 Pick your shelf** — Use the Table of Contents above to jump to your area of interest.
 2. **📋 Scan the table** — Each row is a book (cert). Look at the `Difficulty` and `Est. Time` columns to find one that fits your schedule.
-3. **🔗 Click the link** — Every link drops you directly onto the enrollment page, no searching required.
+3. **🔗 Click the link** — Every link drops you directly onto the enrollment page or the platform hub.
 4. **🏅 Earn your badge** — Complete the course, pass the assessment (if any), and claim your free, shareable credential.
 5. **🔄 Come back** — This repo is updated regularly. Star it so you never miss a new addition.
+
+> [!IMPORTANT]
+> **Note on Links:** Highly stable platforms feature direct course links. For platforms that frequently restructure their URLs (like Kaggle, IBM, or Cisco), links point to the **main course catalog** to prevent "link rot" over time. Simply search the course name in the provided catalog hub.
 
 > [!TIP]
 > **New to tech?** Start with [CS50: Intro to Computer Science](#5-programming--software-development) from Harvard — it is the single most impactful free credential you can earn and covers everything from C to Python to SQL.
@@ -57,8 +60,6 @@ Think of every **category** as a **section of the library**. You don't need to r
 ---
 
 ## 🗺️ Suggested Learning Path for Beginners
-
-> Start at the top and work your way down. Each node links a category in this repo.
 
 ```mermaid
 flowchart TD
@@ -110,19 +111,14 @@ flowchart TD
 
 ## 1. Artificial Intelligence & LLMs
 
-> *AI is moving fast. These credentials focus on fundamentals, prompt engineering, and core mechanics — knowledge that won't expire overnight.*
-
-> [!TIP]
-> **Most Valuable Picks:** 🌟 **Elements of AI** (Helsinki) is the gold standard for building a real conceptual foundation. Pair it with 🌟 **Generative AI Fundamentals** (Google) for immediate practical value in 2026's job market.
-
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
 | 🩶 Univ. of Helsinki | Elements of AI | 🟢 Beginner | 30h | [elementsofai.com](https://www.elementsofai.com/) |
-| 🟦 IBM | AI for Everyone | 🟢 Beginner | 10h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/ai-for-everyone) |
-| 🐱‍💻 Kaggle | Intro to Generative AI | 🟢 Beginner | 5h | [kaggle.com/learn](https://www.kaggle.com/learn/intro-to-generative-ai) |
-| 🔴 Cisco | Intro to Artificial Intelligence | 🟢 Beginner | 15h | [skillsforall.com](https://skillsforall.com/course/introduction-to-artificial-intelligence) |
+| 🟦 IBM | AI for Everyone | 🟢 Beginner | 10h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
+| 🐱‍💻 Kaggle | Intro to Generative AI | 🟢 Beginner | 5h | [kaggle.com/learn](https://www.kaggle.com/learn) |
+| 🔴 Cisco | Intro to Artificial Intelligence | 🟢 Beginner | 15h | [skillsforall.com/catalog](https://skillsforall.com/catalog) |
 | 🩶 Univ. of Helsinki | Building AI | 🟡 Intermediate | 50h | [buildingai.elementsofai.com](https://buildingai.elementsofai.com/) |
-| 🟦 IBM | IBM Watson Studio Basics | 🟡 Intermediate | 5h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/data-science-hands-open-source-tools) |
+| 🟦 IBM | IBM Watson Studio Basics | 🟡 Intermediate | 5h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
 | 🩶 Univ. of Helsinki | Ethics of AI | 🟢 Beginner | 15h | [ethics-of-ai.mooc.fi](https://ethics-of-ai.mooc.fi/) |
 | 🟨 Google Cloud | Generative AI Fundamentals | 🟢 Beginner | 8h | [cloudskillsboost.google](https://www.cloudskillsboost.google/paths/118) |
 | 🩶 DeepLearning.AI | Prompt Engineering for Developers | 🟡 Intermediate | 2h | [deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) |
@@ -132,41 +128,35 @@ flowchart TD
 
 ## 2. Machine Learning & Deep Learning
 
-> [!TIP]
-> **Most Valuable Pick:** 🌟 **Machine Learning with Python** by freeCodeCamp is one of the most comprehensive free credentials available — 300 hours of hands-on TensorFlow and Scikit-learn that signals serious commitment to any employer.
-
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
-| 🐱‍💻 Kaggle | Intro to Machine Learning | 🟢 Beginner | 3h | [kaggle.com/learn](https://www.kaggle.com/learn/intro-to-machine-learning) |
-| 🐱‍💻 Kaggle | Intermediate Machine Learning | 🟡 Intermediate | 4h | [kaggle.com/learn](https://www.kaggle.com/learn/intermediate-machine-learning) |
-| 🐱‍💻 Kaggle | Deep Learning | 🟡 Intermediate | 4h | [kaggle.com/learn](https://www.kaggle.com/learn/deep-learning) |
-| 🐱‍💻 Kaggle | Computer Vision | 🟡 Intermediate | 4h | [kaggle.com/learn](https://www.kaggle.com/learn/computer-vision) |
+| 🐱‍💻 Kaggle | Intro to Machine Learning | 🟢 Beginner | 3h | [kaggle.com/learn](https://www.kaggle.com/learn) |
+| 🐱‍💻 Kaggle | Intermediate Machine Learning | 🟡 Intermediate | 4h | [kaggle.com/learn](https://www.kaggle.com/learn) |
+| 🐱‍💻 Kaggle | Intro to Deep Learning | 🟡 Intermediate | 4h | [kaggle.com/learn](https://www.kaggle.com/learn) |
+| 🐱‍💻 Kaggle | Computer Vision | 🟡 Intermediate | 4h | [kaggle.com/learn](https://www.kaggle.com/learn) |
 | 🟨 Google | Machine Learning Crash Course | 🟡 Intermediate | 15h | [developers.google.com](https://developers.google.com/machine-learning/crash-course) |
 | 🩵 freeCodeCamp | Machine Learning with Python | 🟡 Intermediate | 300h | [freecodecamp.org](https://www.freecodecamp.org/learn/machine-learning-with-python/) |
-| 🟦 IBM | Machine Learning with Python | 🟢 Beginner | 13h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/machine-learning-with-python) |
-| 🟦 IBM | Deep Learning Fundamentals | 🟡 Intermediate | 12h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/introduction-deep-learning) |
-| 🟦 IBM | Deep Learning with PyTorch | 🔴 Advanced | 15h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/deep-learning-pytorch) |
+| 🟦 IBM | Machine Learning with Python | 🟢 Beginner | 13h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
+| 🟦 IBM | Deep Learning Fundamentals | 🟡 Intermediate | 12h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
+| 🟦 IBM | Deep Learning with PyTorch | 🔴 Advanced | 15h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
 | 🩶 DeepLearning.AI | ML Data Lifecycle in Production | 🟡 Intermediate | 5h | [deeplearning.ai](https://www.deeplearning.ai/short-courses/) |
 
 ---
 
 ## 3. Data Science & Big Data
 
-> [!TIP]
-> **Most Valuable Pick:** 🌟 **CS50's Intro to AI with Python** (Harvard) is free, rigorous, and carries the prestige of one of the world's top universities. It covers Graph Search, Probability, and Machine Learning — all in one credential.
-
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
-| 🟦 IBM | Data Science Fundamentals | 🟢 Beginner | 15h | [cognitiveclass.ai](https://cognitiveclass.ai/learn/data-science) |
-| 🔴 Cisco | Intro to Data Science | 🟢 Beginner | 6h | [skillsforall.com](https://skillsforall.com/course/introduction-data-science) |
-| 🐱‍💻 Kaggle | Feature Engineering | 🟡 Intermediate | 4h | [kaggle.com/learn](https://www.kaggle.com/learn/feature-engineering) |
-| 🐱‍💻 Kaggle | Time Series | 🟡 Intermediate | 4h | [kaggle.com/learn](https://www.kaggle.com/learn/time-series) |
-| 🐱‍💻 Kaggle | Geospatial Analysis | 🟡 Intermediate | 4h | [kaggle.com/learn](https://www.kaggle.com/learn/geospatial-analysis) |
-| 🟦 IBM | Big Data 101 | 🟢 Beginner | 3h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/what-is-big-data) |
-| 🟦 IBM | Hadoop Fundamentals I | 🟡 Intermediate | 13h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/hadoop-101) |
-| 🟦 IBM | Spark Fundamentals I | 🟡 Intermediate | 13h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/spark-fundamentals) |
+| 🟦 IBM | Data Science Fundamentals | 🟢 Beginner | 15h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
+| 🔴 Cisco | Intro to Data Science | 🟢 Beginner | 6h | [skillsforall.com/catalog](https://skillsforall.com/catalog) |
+| 🐱‍💻 Kaggle | Feature Engineering | 🟡 Intermediate | 4h | [kaggle.com/learn](https://www.kaggle.com/learn) |
+| 🐱‍💻 Kaggle | Time Series | 🟡 Intermediate | 4h | [kaggle.com/learn](https://www.kaggle.com/learn) |
+| 🐱‍💻 Kaggle | Geospatial Analysis | 🟡 Intermediate | 4h | [kaggle.com/learn](https://www.kaggle.com/learn) |
+| 🟦 IBM | Big Data 101 | 🟢 Beginner | 3h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
+| 🟦 IBM | Hadoop Fundamentals I | 🟡 Intermediate | 13h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
+| 🟦 IBM | Spark Fundamentals I | 🟡 Intermediate | 13h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
 | 🟣 Harvard | CS50's Intro to AI with Python | 🟢 Beginner | 30h | [cs50.harvard.edu/ai](https://cs50.harvard.edu/ai/) |
-| 🟦 IBM | Text Analytics 101 | 🟡 Intermediate | 5h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/text-analytics-101) |
+| 🟦 IBM | Text Analytics 101 | 🟡 Intermediate | 5h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
 
 ---
 
@@ -175,44 +165,36 @@ flowchart TD
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
 | 🩵 freeCodeCamp | Data Analysis with Python | 🟡 Intermediate | 300h | [freecodecamp.org](https://www.freecodecamp.org/learn/data-analysis-with-python/) |
-| 🐱‍💻 Kaggle | Pandas | 🟢 Beginner | 4h | [kaggle.com/learn](https://www.kaggle.com/learn/pandas) |
-| 🐱‍💻 Kaggle | Data Visualization | 🟢 Beginner | 4h | [kaggle.com/learn](https://www.kaggle.com/learn/data-visualization) |
-| 🐱‍💻 Kaggle | Intro to SQL | 🟢 Beginner | 3h | [kaggle.com/learn](https://www.kaggle.com/learn/intro-to-sql) |
-| 🐱‍💻 Kaggle | Advanced SQL | 🟡 Intermediate | 4h | [kaggle.com/learn](https://www.kaggle.com/learn/advanced-sql) |
-| 🔴 Cisco | Data Analytics Essentials | 🟢 Beginner | 30h | [skillsforall.com](https://skillsforall.com/course/data-analytics-essentials) |
-| 🟦 IBM | Data Visualization with Python | 🟡 Intermediate | 18h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/data-visualization-python) |
+| 🐱‍💻 Kaggle | Pandas | 🟢 Beginner | 4h | [kaggle.com/learn](https://www.kaggle.com/learn) |
+| 🐱‍💻 Kaggle | Data Visualization | 🟢 Beginner | 4h | [kaggle.com/learn](https://www.kaggle.com/learn) |
+| 🐱‍💻 Kaggle | Intro to SQL | 🟢 Beginner | 3h | [kaggle.com/learn](https://www.kaggle.com/learn) |
+| 🐱‍💻 Kaggle | Advanced SQL | 🟡 Intermediate | 4h | [kaggle.com/learn](https://www.kaggle.com/learn) |
+| 🔴 Cisco | Data Analytics Essentials | 🟢 Beginner | 30h | [skillsforall.com/catalog](https://skillsforall.com/catalog) |
+| 🟦 IBM | Data Visualization with Python | 🟡 Intermediate | 18h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
 | 🟨 Google Skillshop | Google Analytics Certification | 🟢 Beginner | 5h | [skillshop.exceedlms.com](https://skillshop.exceedlms.com/student/catalog/list?category_ids=6431) |
-| 🟦 IBM | SQL and Relational Databases 101 | 🟢 Beginner | 16h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/learn-sql-relational-databases) |
-| 🐱‍💻 Kaggle | Data Cleaning | 🟡 Intermediate | 3h | [kaggle.com/learn](https://www.kaggle.com/learn/data-cleaning) |
+| 🟦 IBM | SQL and Relational Databases 101 | 🟢 Beginner | 16h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
+| 🐱‍💻 Kaggle | Data Cleaning | 🟡 Intermediate | 3h | [kaggle.com/learn](https://www.kaggle.com/learn) |
 
 ---
 
 ## 5. Programming & Software Development
-
-> [!TIP]
-> **Most Valuable Pick:** 🌟 **CS50: Intro to Computer Science** (Harvard) is the undisputed king of free programming credentials. Recognized globally, it is free to audit and the verified certificate has been waived at zero cost for years. It is the single best return on your time in this entire index.
 
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
 | 🟣 Harvard | CS50: Intro to Computer Science | 🟢 Beginner | 120h | [cs50.harvard.edu/x](https://cs50.harvard.edu/x/) |
 | 🩵 freeCodeCamp | Scientific Computing with Python | 🟢 Beginner | 300h | [freecodecamp.org](https://www.freecodecamp.org/learn/scientific-computing-with-python/) |
 | 🩵 freeCodeCamp / 🟩 MS | Foundational C# with Microsoft | 🟢 Beginner | 300h | [freecodecamp.org](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) |
-| 🐱‍💻 Kaggle | Python | 🟢 Beginner | 5h | [kaggle.com/learn](https://www.kaggle.com/learn/python) |
-| 🔴 Cisco | Python Essentials 1 | 🟢 Beginner | 30h | [skillsforall.com](https://skillsforall.com/course/python-essentials-1) |
-| 🔴 Cisco | Python Essentials 2 | 🟡 Intermediate | 40h | [skillsforall.com](https://skillsforall.com/course/python-essentials-2) |
-| 🔴 Cisco | Programming Essentials in C++ | 🟢 Beginner | 70h | [skillsforall.com](https://skillsforall.com/course/cpp-essentials-1) |
-| 🟦 IBM | Go (Golang) Basics | 🟢 Beginner | 10h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/go-basics) |
-| 🟦 IBM | Reactive Architecture: Intro | 🟡 Intermediate | 6h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/reactive-architecture-introduction) |
-| 🩶 Great Learning | Java Tutorial Certificate | 🟢 Beginner | 4h | [mygreatlearning.com](https://www.mygreatlearning.com/academy/learn-for-free/courses/java-programming) |
+| 🐱‍💻 Kaggle | Python | 🟢 Beginner | 5h | [kaggle.com/learn](https://www.kaggle.com/learn) |
+| 🔴 Cisco | Python Essentials 1 | 🟢 Beginner | 30h | [skillsforall.com/catalog](https://skillsforall.com/catalog) |
+| 🔴 Cisco | Python Essentials 2 | 🟡 Intermediate | 40h | [skillsforall.com/catalog](https://skillsforall.com/catalog) |
+| 🔴 Cisco | Programming Essentials in C++ | 🟢 Beginner | 70h | [skillsforall.com/catalog](https://skillsforall.com/catalog) |
+| 🟦 IBM | Go (Golang) Basics | 🟢 Beginner | 10h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
+| 🟦 IBM | Reactive Architecture: Intro | 🟡 Intermediate | 6h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
+| 🩶 Great Learning | Java Tutorial Certificate | 🟢 Beginner | 4h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/java-programming) |
 
 ---
 
 ## 6. Web Development (Front-end & Back-end)
-
-> *The freeCodeCamp suite is the most complete free web dev curriculum on the internet. Each certification is a 300-hour project-based credential that hiring managers recognize.*
-
-> [!TIP]
-> **Suggested Stack Path:** Start with **Responsive Web Design** → **JS Algorithms** → **Front End Libraries** → **Back End & APIs**. That four-cert sequence is a legitimate full-stack portfolio.
 
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
@@ -231,19 +213,16 @@ flowchart TD
 
 ## 7. Cloud Computing (Azure, AWS, Google Cloud)
 
-> [!TIP]
-> **Most Valuable Pick:** 🌟 **Azure Fundamentals Badge** (Microsoft Learn) is a direct stepping stone to the **AZ-900** paid exam — and Microsoft frequently offers free exam vouchers to those who complete this learning path. See the [Pro-Tips section](#-pro-tip-how-to-get-paid-certifications-for-free-in-2026) below.
-
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
-| 🟧 AWS Educate | AWS Cloud Practitioner Badge | 🟢 Beginner | 15h | [aws.amazon.com/education/awseducate](https://aws.amazon.com/education/awseducate/) |
+| 🟧 AWS Educate | AWS Cloud Practitioner Badge | 🟢 Beginner | 15h | [aws.amazon.com/education/awseducate/](https://aws.amazon.com/education/awseducate/) |
 | 🟩 Microsoft | Azure Fundamentals Badge | 🟢 Beginner | 10h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/) |
 | 🟨 Google Cloud | Google Cloud Computing Foundations | 🟢 Beginner | 20h | [cloudskillsboost.google](https://www.cloudskillsboost.google/paths/11) |
-| 🟦 IBM | IBM Cloud Essentials | 🟢 Beginner | 6h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/ibm-cloud-essentials) |
-| 🟦 IBM | Serverless Computing using Cloud | 🟡 Intermediate | 5h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/serverless-computing) |
-| 🟦 IBM | Cloud Core | 🟢 Beginner | 5h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/introduction-to-cloud) |
-| 🟦 IBM | Container & Kubernetes Essentials | 🟡 Intermediate | 15h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/kubernetes-course) |
-| 🟦 IBM | Cloud Architecture Foundations | 🟡 Intermediate | 10h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/cloud-architecture-foundations) |
+| 🟦 IBM | IBM Cloud Essentials | 🟢 Beginner | 6h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
+| 🟦 IBM | Serverless Computing using Cloud | 🟡 Intermediate | 5h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
+| 🟦 IBM | Cloud Core | 🟢 Beginner | 5h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
+| 🟦 IBM | Container & Kubernetes Essentials | 🟡 Intermediate | 15h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
+| 🟦 IBM | Cloud Architecture Foundations | 🟡 Intermediate | 10h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
 | 🟩 Microsoft | Administer Active Directory | 🟡 Intermediate | 6h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/active-directory-domain-services/) |
 | 🟧 AWS Skill Builder | AWS Getting Started | 🟢 Beginner | 5h | [explore.skillbuilder.aws](https://explore.skillbuilder.aws) |
 
@@ -251,46 +230,35 @@ flowchart TD
 
 ## 8. Cybersecurity & Ethical Hacking
 
-> *The Cisco Skills for All pathway is the most structured free cybersecurity curriculum available, running from basic threat awareness all the way to full SoC operations.*
-
-> [!TIP]
-> **Most Valuable Pick:** 🌟 **Cybersecurity Essentials** (Cisco) is the most substantive beginner-to-intermediate cybersecurity credential you can earn for free. It covers cryptography, network defense, and incident response literacy — skills that are universally valued.
-
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
-| 🔴 Cisco | Intro to Cybersecurity | 🟢 Beginner | 15h | [skillsforall.com](https://skillsforall.com/course/introduction-to-cybersecurity) |
-| 🔴 Cisco | Cybersecurity Essentials | 🟡 Intermediate | 30h | [skillsforall.com](https://skillsforall.com/course/cybersecurity-essentials) |
+| 🔴 Cisco | Intro to Cybersecurity | 🟢 Beginner | 15h | [skillsforall.com/catalog](https://skillsforall.com/catalog) |
+| 🔴 Cisco | Cybersecurity Essentials | 🟡 Intermediate | 30h | [skillsforall.com/catalog](https://skillsforall.com/catalog) |
 | 🩶 Fortinet | Information Security Awareness (NSE 1) | 🟢 Beginner | 2h | [training.fortinet.com](https://training.fortinet.com/) |
 | 🩶 Fortinet | Evolution of Cybersecurity (NSE 2) | 🟡 Intermediate | 4h | [training.fortinet.com](https://training.fortinet.com/) |
-| 🔴 Cisco | Endpoint Security | 🟡 Intermediate | 27h | [skillsforall.com](https://skillsforall.com/course/endpoint-security) |
-| 🔴 Cisco | Network Defense | 🟡 Intermediate | 27h | [skillsforall.com](https://skillsforall.com/course/network-defense) |
-| 🔴 Cisco | Cyber Threat Management | 🔴 Advanced | 16h | [skillsforall.com](https://skillsforall.com/course/cyber-threat-management) |
+| 🔴 Cisco | Endpoint Security | 🟡 Intermediate | 27h | [skillsforall.com/catalog](https://skillsforall.com/catalog) |
+| 🔴 Cisco | Network Defense | 🟡 Intermediate | 27h | [skillsforall.com/catalog](https://skillsforall.com/catalog) |
+| 🔴 Cisco | Cyber Threat Management | 🔴 Advanced | 16h | [skillsforall.com/catalog](https://skillsforall.com/catalog) |
 | 🟩 Microsoft | Describe Security Concepts | 🟡 Intermediate | 5h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/describe-security-concepts/) |
-| 🩶 EC-Council / Great Learning | Ethical Hacking Essentials | 🟢 Beginner | 15h | [mygreatlearning.com](https://www.mygreatlearning.com/academy/learn-for-free/courses/ethical-hacking-basics) |
-| 🩶 Univ. of Maryland | Intro to Hardware Security | 🔴 Advanced | 12h | [coursera.org](https://www.coursera.org/learn/hardware-security) *(Free audit; no free cert)* |
-
-> [!NOTE]
-> The **Intro to Hardware Security** (Maryland via Coursera) is listed here for its exceptional educational value. Coursera's audit mode is free, but the verified certificate requires payment. All other entries in this index provide free credentials.
+| 🩶 EC-Council / Great Learning | Ethical Hacking Essentials | 🟢 Beginner | 15h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/ethical-hacking-basics) |
+| 🩶 Univ. of Maryland | Intro to Hardware Security | 🔴 Advanced | 12h | [coursera.org](https://www.coursera.org/learn/hardware-security) |
 
 ---
 
 ## 9. DevOps & Site Reliability Engineering (SRE)
 
-> [!TIP]
-> **Most Valuable Pick:** 🌟 **Automate deployments with GitHub Actions** (Microsoft Learn) is the single fastest, most practical credential for modern DevOps — CI/CD with GitHub Actions is now a baseline job requirement, and this Microsoft badge proves you can do it.
-
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
-| 🟦 IBM | Docker Essentials | 🟢 Beginner | 5h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/docker-essentials) |
-| 🟦 IBM | Build Kubernetes Operators | 🟡 Intermediate | 4h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/build-kubernetes-operators) |
-| 🔴 Cisco | NDG Linux Unhatched | 🟢 Beginner | 8h | [skillsforall.com](https://skillsforall.com/course/linux-unhatched) |
-| 🔴 Cisco | NDG Linux Essentials | 🟡 Intermediate | 70h | [skillsforall.com](https://skillsforall.com/course/linux-essentials) |
+| 🟦 IBM | Docker Essentials | 🟢 Beginner | 5h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
+| 🟦 IBM | Build Kubernetes Operators | 🟡 Intermediate | 4h | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
+| 🔴 Cisco | NDG Linux Unhatched | 🟢 Beginner | 8h | [skillsforall.com/catalog](https://skillsforall.com/catalog) |
+| 🔴 Cisco | NDG Linux Essentials | 🟡 Intermediate | 70h | [skillsforall.com/catalog](https://skillsforall.com/catalog) |
 | 🟩 Microsoft | Automate Deployments with GitHub | 🟢 Beginner | 4h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/automate-deployments-github-actions/) |
-| 🩶 Great Learning | DevOps Foundations | 🟡 Intermediate | 4h | [mygreatlearning.com](https://www.mygreatlearning.com/academy/learn-for-free/courses/devops-foundations) |
-| 🩶 Great Learning | Version Control with Git | 🟢 Beginner | 3h | [mygreatlearning.com](https://www.mygreatlearning.com/academy/learn-for-free/courses/git-and-github-crash-course) |
+| 🩶 Great Learning | DevOps Foundations | 🟡 Intermediate | 4h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/devops-foundations) |
+| 🩶 Great Learning | Version Control with Git | 🟢 Beginner | 3h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/git-and-github-crash-course) |
 | 🟩 Microsoft | Implement CI/CD with Azure | 🟡 Intermediate | 5h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/implement-ci-cd-azure-devops/) |
-| 🩶 Great Learning | SRE Basics | 🟡 Intermediate | 3h | [mygreatlearning.com](https://www.mygreatlearning.com/academy/learn-for-free/courses/site-reliability-engineering) |
-| 🩶 Great Learning | Ansible Basics | 🔴 Advanced | 2h | [mygreatlearning.com](https://www.mygreatlearning.com/academy/learn-for-free/courses/ansible-basics) |
+| 🩶 Great Learning | SRE Basics | 🟡 Intermediate | 3h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/site-reliability-engineering) |
+| 🩶 Great Learning | Ansible Basics | 🔴 Advanced | 2h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/ansible-basics) |
 
 ---
 
@@ -302,21 +270,16 @@ flowchart TD
 | 🟨 Google Developers | Advanced Android in Kotlin | 🟡 Intermediate | 30h | [developer.android.com](https://developer.android.com/courses/advanced-training/overview) |
 | 🟣 Harvard | CS50's Intro to Game Development | 🟢 Beginner | 60h | [cs50.harvard.edu/games](https://cs50.harvard.edu/games/) |
 | 🟩 Microsoft | Build Mobile Apps with .NET MAUI | 🟢 Beginner | 8h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/build-apps-with-dotnet-maui/) |
-| 🩶 Great Learning | React Native Fundamentals | 🟢 Beginner | 3h | [mygreatlearning.com](https://www.mygreatlearning.com/academy/learn-for-free/courses/react-native) |
-| 🩶 Great Learning | iOS App Development Basics | 🟢 Beginner | 3h | [mygreatlearning.com](https://www.mygreatlearning.com/academy/learn-for-free/courses/ios-app-development-basics) |
-| 🩶 Great Learning | Flutter Basics | 🟢 Beginner | 2h | [mygreatlearning.com](https://www.mygreatlearning.com/academy/learn-for-free/courses/flutter-basics) |
+| 🩶 Great Learning | React Native Fundamentals | 🟢 Beginner | 3h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/react-native) |
+| 🩶 Great Learning | iOS App Development Basics | 🟢 Beginner | 3h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/ios-app-development-basics) |
+| 🩶 Great Learning | Flutter Basics | 🟢 Beginner | 2h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/flutter-basics) |
 | 🟨 Google Developers | Kotlin Bootcamp for Programmers | 🟢 Beginner | 15h | [developer.android.com](https://developer.android.com/courses/kotlin-bootcamp/overview) |
-| 🩶 Great Learning | Mobile App Dev with Python | 🟡 Intermediate | 2h | [mygreatlearning.com](https://www.mygreatlearning.com/academy/learn-for-free/courses/mobile-app-development-with-python) |
+| 🩶 Great Learning | Mobile App Dev with Python | 🟡 Intermediate | 2h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/mobile-app-development-with-python) |
 | 🟨 Google Developers | Architecture Components | 🔴 Advanced | 10h | [developer.android.com](https://developer.android.com/courses/architecture-components/overview) |
 
 ---
 
 ## Bonus: Anthropic AI & Agentic Workflows
-
-> *The newest and fastest-growing credential ecosystem on this list. Anthropic's Skilljar platform is building out a full learning program for Claude, MCP, and agentic AI — get in early.*
-
-> [!TIP]
-> **Most Valuable Pick:** 🌟 **Claude Code in Action** is the most cutting-edge credential in this entire index. AI agent dev and CLI-driven coding workflows are the frontier of the industry in 2026. This one will stand out on any resume.
 
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
