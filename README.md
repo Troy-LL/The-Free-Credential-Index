@@ -152,7 +152,7 @@ flowchart TD
 | 💠 fCC | Machine Learning with Python | 🟡 Intermediate | 300h | [freecodecamp.org](https://www.freecodecamp.org/learn/machine-learning-with-python/) |
 | 🟦 IBM | Machine Learning with Python | 🟢 Beginner | 13h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/machine-learning-with-python) |
 | 🟦 IBM | Deep Learning Fundamentals | 🟡 Intermediate | 12h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/introduction-deep-learning) |
-| 🟦 IBM | Building AI Powered Chatbots | 🟢 Beginner | 6w | [cognitiveclass.ai](https://cognitiveclass.ai/courses/building-ai-powered-chatbots-without-programming) |
+| 🟦 IBM | PyTorch: Tensor, Dataset and Data Augmentation | 🟢 Beginner | 3h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/pytorch-tensor-dataset-and-data-augmentation) |
 | 🔘 DL.AI | LangChain for LLM Applications | 🟡 Intermediate | 5h | [deeplearning.ai](https://www.deeplearning.ai/courses/langchain-for-llm-application-development/) |
 
 > **Quick Hub Access:** [🟦 IBM](https://cognitiveclass.ai/courses) · [🟨 Google](https://www.skills.google/catalog) · [💠 freeCodeCamp](https://www.freecodecamp.org/learn/) · [🎓 Kaggle](https://www.kaggle.com/learn)
@@ -172,7 +172,7 @@ flowchart TD
 | 🎓 Kaggle | Time Series | 🟡 Intermediate | 5h | [kaggle.com/learn/time-series](https://www.kaggle.com/learn/time-series) |
 | 🎓 Kaggle | Geospatial Analysis | 🟡 Intermediate | 4h | [kaggle.com/learn/geospatial-analysis](https://www.kaggle.com/learn/geospatial-analysis) |
 | 🟦 IBM | Big Data 101 | 🟢 Beginner | 3h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/what-is-big-data) |
-| 🟦 IBM | Data Analysis with Python | 🟡 Intermediate | 15h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/data-analysis-python) |
+| 🟦 IBM | Hadoop 101 | 🟢 Beginner | 20h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/introduction-to-hadoop) |
 | 🟦 IBM | Spark Fundamentals I | 🟡 Intermediate | 4h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/what-is-spark) |
 | 🟣 Harvard | CS50's Intro to AI with Python | 🟢 Beginner | 30h | [cs50.harvard.edu/ai](https://cs50.harvard.edu/ai/) |
 | 🟦 IBM | Text Analytics 101 | 🟡 Intermediate | 5h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/text-analytics-101) |
@@ -192,7 +192,7 @@ flowchart TD
 | 🎓 Kaggle | Advanced SQL | 🟡 Intermediate | 4h | [kaggle.com/learn/advanced-sql](https://www.kaggle.com/learn/advanced-sql) |
 | 🔴 Cisco | Data Analytics Essentials | 🟢 Beginner | 30h | [netacad.com](https://www.netacad.com/courses/data-analytics-essentials) |
 | 🟦 IBM | Data Visualization with Python | 🟡 Intermediate | 18h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/data-visualization-python) |
-| 🟨 Google | Google Analytics Certification | 🟢 Beginner | 5h | [skillshop.withgoogle.com](https://skillshop.withgoogle.com/) |
+| 🟨 Google | Google Analytics Certification (pick exam on Skillshop) | 🟢 Beginner | 5h | [skillshop.withgoogle.com](https://skillshop.withgoogle.com/) |
 | 🟦 IBM | SQL and Relational Databases 101 | 🟢 Beginner | 16h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/learn-sql-relational-databases) |
 | 🎓 Kaggle | Data Cleaning | 🟡 Intermediate | 4h | [kaggle.com/learn/data-cleaning](https://www.kaggle.com/learn/data-cleaning) |
 
@@ -248,7 +248,7 @@ flowchart TD
 | 🟧 AWS | AWS Cloud Quest: Cloud Practitioner | 🟢 Beginner | 15h | [skillbuilder.aws](https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/) |
 | 🟩 MS | Azure Fundamentals Badge | 🟢 Beginner | 10h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/) |
 | 🟨 Google | Cloud Computing Foundations | 🟢 Beginner | 32h | [skills.google/paths/36](https://www.skills.google/paths/36) |
-| 🟦 IBM | Introduction to Cloud Computing | 🟢 Beginner | 12h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/introduction-to-cloud-computing) |
+| 🟦 IBM | IBM Cloud Essentials (CC0103EN) | 🟢 Beginner | 6h | [cognitiveclass.ai](https://apps.cognitiveclass.ai/learning/course/course-v1:IBMDeveloperSkillsNetwork+CC0103EN+v3/home) |
 | 🟦 IBM | Serverless Computing (Cloud Functions) | 🟡 Intermediate | 4h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/serverless-computing-using-cloud-functions-developer-i) |
 | 🟦 IBM | Cloud Core | 🟢 Beginner | 5h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/introduction-to-cloud) |
 | 🟦 IBM | Container & Kubernetes Essentials | 🟡 Intermediate | 15h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/kubernetes-course) |
@@ -284,7 +284,7 @@ flowchart TD
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
 | 🟦 IBM | Docker Essentials | 🟢 Beginner | 5h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/docker-essentials) |
-| 🟦 IBM | Containers, Kubernetes & Istio | 🟡 Intermediate | 15h | [cognitiveclass.ai](https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud) |
+| 🟦 IBM | Kubernetes Operators Intermediate | 🟡 Intermediate | 7h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/kubernetes-operators-intermediate) |
 | 🔴 Cisco | NDG Linux Unhatched | 🟢 Beginner | 8h | [netacad.com](https://www.netacad.com/courses/linux-unhatched) |
 | 🔴 Cisco | NDG Linux Essentials | 🟡 Intermediate | 70h | [netacad.com](https://www.netacad.com/courses/linux-essentials) |
 | 🟩 MS | Automate Workflows with GitHub Actions | 🟢 Beginner | 6h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/github-actions/) |
