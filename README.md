@@ -9,7 +9,7 @@
 <br>
 
 ![Total Certs](https://img.shields.io/badge/Total%20Certs-105%2B-blueviolet?style=for-the-badge&logo=academia&logoColor=white)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202026-brightgreen?style=for-the-badge&logo=googlecalendar&logoColor=white)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-September%202026-brightgreen?style=for-the-badge&logo=googlecalendar&logoColor=white)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-ff69b4?style=for-the-badge&logo=github&logoColor=white)
 ![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-orange?style=for-the-badge)
 
@@ -103,37 +103,37 @@ flowchart TD
 | Badge | Provider | Catalog Hub |
 | :---: | :--- | :--- |
 | 🟦 | **IBM** (Cognitive Class) | [cognitiveclass.ai/courses](https://cognitiveclass.ai/courses) |
-| 🟨 | **Google** (Cloud Skills Boost) | [cloudskillsboost.google/catalog](https://www.cloudskillsboost.google/catalog) |
+| 🟨 | **Google** (Google Skills) | [skills.google/catalog](https://www.skills.google/catalog) |
 | 🟩 | **Microsoft** (Learn) | [learn.microsoft.com/training](https://learn.microsoft.com/en-us/training/browse/) |
-| 🟧 | **AWS** (Educate / Builder) | [explore.skillbuilder.aws](https://explore.skillbuilder.aws) |
-| 🔴 | **Cisco** (Skills for All) | [skillsforall.com/catalog](https://skillsforall.com/catalog) |
+| 🟧 | **AWS** (Skill Builder) | [skillbuilder.aws](https://skillbuilder.aws) |
+| 🔴 | **Cisco** (Networking Academy) | [netacad.com/catalogs/learn](https://www.netacad.com/catalogs/learn) |
 | 🟣 | **Harvard** (CS50) | [cs50.harvard.edu](https://cs50.harvard.edu/) |
 | 💠 | **freeCodeCamp** | [freecodecamp.org/learn](https://www.freecodecamp.org/learn/) |
 | 🎓 | **Kaggle** | [kaggle.com/learn](https://www.kaggle.com/learn) |
 | 🧡 | **Anthropic** | [anthropic.skilljar.com](https://anthropic.skilljar.com/) |
-| 🔘 | **Others** (Univs, Fortinet, GLC) | — |
+| 🔘 | **Others** (Univs, Fortinet) | — |
 
 ---
 
 ## 1. Artificial Intelligence & LLMs
 
 > [!TIP]
-> **Most Valuable Picks:** 🌟 **Elements of AI** (Helsinki) is the gold standard for building a real conceptual foundation. Pair it with 🌟 **Generative AI Fundamentals** (Google) for immediate practical value in 2026's job market.
+> **Most Valuable Picks:** 🌟 **Elements of AI** (Helsinki) is the gold standard for building a real conceptual foundation. Pair it with 🌟 **Introduction to Generative AI** (Google) for immediate practical value in 2026's job market.
 
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
 | 🔘 Helsinki | Elements of AI | 🟢 Beginner | 30h | [elementsofai.com](https://www.elementsofai.com/) |
-| 🟦 IBM | AI for Everyone | 🟢 Beginner | 10h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/ai-for-everyone) |
-| 🎓 Kaggle | Intro to Generative AI | 🟢 Beginner | 5h | [kaggle.com/learn/intro-to-generative-ai](https://www.kaggle.com/learn/intro-to-generative-ai) |
-| 🔴 Cisco | Intro to Artificial Intelligence | 🟢 Beginner | 15h | [skillsforall.com](https://skillsforall.com/course/introduction-to-artificial-intelligence) |
+| 🟦 IBM | Fundamentals of AI | 🟢 Beginner | 3h | [cognitiveclass.ai](https://cognitiveclass.ai/learn/fundamentals-of-ai) |
+| 🎓 Kaggle | Intro to AI Ethics | 🟢 Beginner | 4h | [kaggle.com/learn/intro-to-ai-ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) |
+| 🔴 Cisco | Introduction to Modern AI | 🟢 Beginner | 4h | [netacad.com](https://www.netacad.com/courses/introduction-to-modern-ai) |
 | 🔘 Helsinki | Building AI | 🟡 Intermediate | 50h | [buildingai.elementsofai.com](https://buildingai.elementsofai.com/) |
-| 🟦 IBM | IBM Watson Studio Basics | 🟡 Intermediate | 5h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/data-science-hands-open-source-tools) |
+| 🟦 IBM | Data Science Tools (Watson Studio) | 🟡 Intermediate | 15h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2) |
 | 🔘 Helsinki | Ethics of AI | 🟢 Beginner | 15h | [ethics-of-ai.mooc.fi](https://ethics-of-ai.mooc.fi/) |
-| 🟨 Google | Generative AI Fundamentals | 🟢 Beginner | 8h | [cloudskillsboost.google/paths/118](https://www.cloudskillsboost.google/paths/118) |
-| 🔘 DL.AI | Prompt Engineering for Developers | 🟡 Intermediate | 2h | [deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) |
-| 🟩 MS | Build AI Apps with Semantic Kernel | 🟡 Intermediate | 4h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents/) |
+| 🟨 Google | Introduction to Generative AI | 🟢 Beginner | 8h | [skills.google/paths/118](https://www.skills.google/paths/118) |
+| 🔘 DL.AI | Prompt Engineering for Developers | 🟡 Intermediate | 2h | [deeplearning.ai](https://www.deeplearning.ai/courses/chatgpt-prompt-engineering-for-developers/) |
+| 🟩 MS | Develop AI Agents on Azure | 🟡 Intermediate | 4h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure/) |
 
-> **Quick Hub Access:** [🟦 IBM](https://cognitiveclass.ai/courses) · [🟨 Google](https://www.cloudskillsboost.google/catalog) · [🟩 Microsoft](https://learn.microsoft.com/en-us/training/browse/) · [🔴 Cisco](https://skillsforall.com/catalog) · [🎓 Kaggle](https://www.kaggle.com/learn)
+> **Quick Hub Access:** [🟦 IBM](https://cognitiveclass.ai/courses) · [🟨 Google](https://www.skills.google/catalog) · [🟩 Microsoft](https://learn.microsoft.com/en-us/training/browse/) · [🔴 Cisco](https://www.netacad.com/catalogs/learn) · [🎓 Kaggle](https://www.kaggle.com/learn)
 
 ---
 
@@ -152,10 +152,10 @@ flowchart TD
 | 💠 fCC | Machine Learning with Python | 🟡 Intermediate | 300h | [freecodecamp.org](https://www.freecodecamp.org/learn/machine-learning-with-python/) |
 | 🟦 IBM | Machine Learning with Python | 🟢 Beginner | 13h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/machine-learning-with-python) |
 | 🟦 IBM | Deep Learning Fundamentals | 🟡 Intermediate | 12h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/introduction-deep-learning) |
-| 🟦 IBM | Deep Learning with PyTorch | 🔴 Advanced | 15h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/deep-learning-pytorch) |
-| 🔘 DL.AI | ML Data Lifecycle in Production | 🟡 Intermediate | 5h | [deeplearning.ai](https://www.deeplearning.ai/short-courses/) |
+| 🟦 IBM | PyTorch: Tensor, Dataset and Data Augmentation | 🟢 Beginner | 3h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/pytorch-tensor-dataset-and-data-augmentation) |
+| 🔘 DL.AI | LangChain for LLM Applications | 🟡 Intermediate | 5h | [deeplearning.ai](https://www.deeplearning.ai/courses/langchain-for-llm-application-development/) |
 
-> **Quick Hub Access:** [🟦 IBM](https://cognitiveclass.ai/courses) · [🟨 Google](https://www.cloudskillsboost.google/catalog) · [💠 freeCodeCamp](https://www.freecodecamp.org/learn/) · [🎓 Kaggle](https://www.kaggle.com/learn)
+> **Quick Hub Access:** [🟦 IBM](https://cognitiveclass.ai/courses) · [🟨 Google](https://www.skills.google/catalog) · [💠 freeCodeCamp](https://www.freecodecamp.org/learn/) · [🎓 Kaggle](https://www.kaggle.com/learn)
 
 ---
 
@@ -167,17 +167,17 @@ flowchart TD
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
 | 🟦 IBM | Data Science Fundamentals | 🟢 Beginner | 15h | [cognitiveclass.ai](https://cognitiveclass.ai/learn/data-science) |
-| 🔴 Cisco | Intro to Data Science | 🟢 Beginner | 6h | [skillsforall.com](https://skillsforall.com/course/introduction-data-science) |
-| 🎓 Kaggle | Feature Engineering | 🟡 Intermediate | 4h | [kaggle.com/learn/feature-engineering](https://www.kaggle.com/learn/feature-engineering) |
-| 🎓 Kaggle | Time Series | 🟡 Intermediate | 4h | [kaggle.com/learn/time-series](https://www.kaggle.com/learn/time-series) |
+| 🔴 Cisco | Intro to Data Science | 🟢 Beginner | 6h | [netacad.com](https://www.netacad.com/courses/introduction-data-science) |
+| 🎓 Kaggle | Feature Engineering | 🟡 Intermediate | 5h | [kaggle.com/learn/feature-engineering](https://www.kaggle.com/learn/feature-engineering) |
+| 🎓 Kaggle | Time Series | 🟡 Intermediate | 5h | [kaggle.com/learn/time-series](https://www.kaggle.com/learn/time-series) |
 | 🎓 Kaggle | Geospatial Analysis | 🟡 Intermediate | 4h | [kaggle.com/learn/geospatial-analysis](https://www.kaggle.com/learn/geospatial-analysis) |
 | 🟦 IBM | Big Data 101 | 🟢 Beginner | 3h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/what-is-big-data) |
-| 🟦 IBM | Hadoop Fundamentals I | 🟡 Intermediate | 13h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/hadoop-101) |
-| 🟦 IBM | Spark Fundamentals I | 🟡 Intermediate | 13h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/spark-fundamentals) |
+| 🟦 IBM | Hadoop 101 | 🟢 Beginner | 20h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/introduction-to-hadoop) |
+| 🟦 IBM | Spark Fundamentals I | 🟡 Intermediate | 4h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/what-is-spark) |
 | 🟣 Harvard | CS50's Intro to AI with Python | 🟢 Beginner | 30h | [cs50.harvard.edu/ai](https://cs50.harvard.edu/ai/) |
 | 🟦 IBM | Text Analytics 101 | 🟡 Intermediate | 5h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/text-analytics-101) |
 
-> **Quick Hub Access:** [🟦 IBM](https://cognitiveclass.ai/courses) · [🔴 Cisco](https://skillsforall.com/catalog) · [🟣 Harvard](https://cs50.harvard.edu/) · [🎓 Kaggle](https://www.kaggle.com/learn)
+> **Quick Hub Access:** [🟦 IBM](https://cognitiveclass.ai/courses) · [🔴 Cisco](https://www.netacad.com/catalogs/learn) · [🟣 Harvard](https://cs50.harvard.edu/) · [🎓 Kaggle](https://www.kaggle.com/learn)
 
 ---
 
@@ -190,13 +190,13 @@ flowchart TD
 | 🎓 Kaggle | Data Visualization | 🟢 Beginner | 4h | [kaggle.com/learn/data-visualization](https://www.kaggle.com/learn/data-visualization) |
 | 🎓 Kaggle | Intro to SQL | 🟢 Beginner | 3h | [kaggle.com/learn/intro-to-sql](https://www.kaggle.com/learn/intro-to-sql) |
 | 🎓 Kaggle | Advanced SQL | 🟡 Intermediate | 4h | [kaggle.com/learn/advanced-sql](https://www.kaggle.com/learn/advanced-sql) |
-| 🔴 Cisco | Data Analytics Essentials | 🟢 Beginner | 30h | [skillsforall.com](https://skillsforall.com/course/data-analytics-essentials) |
+| 🔴 Cisco | Data Analytics Essentials | 🟢 Beginner | 30h | [netacad.com](https://www.netacad.com/courses/data-analytics-essentials) |
 | 🟦 IBM | Data Visualization with Python | 🟡 Intermediate | 18h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/data-visualization-python) |
-| 🟨 Google | Google Analytics Certification | 🟢 Beginner | 5h | [skillshop.exceedlms.com](https://skillshop.exceedlms.com/student/catalog/list?category_ids=6431) |
+| 🟨 Google | Google Analytics Certification (pick exam on Skillshop) | 🟢 Beginner | 5h | [skillshop.withgoogle.com](https://skillshop.withgoogle.com/) |
 | 🟦 IBM | SQL and Relational Databases 101 | 🟢 Beginner | 16h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/learn-sql-relational-databases) |
-| 🎓 Kaggle | Data Cleaning | 🟡 Intermediate | 3h | [kaggle.com/learn/data-cleaning](https://www.kaggle.com/learn/data-cleaning) |
+| 🎓 Kaggle | Data Cleaning | 🟡 Intermediate | 4h | [kaggle.com/learn/data-cleaning](https://www.kaggle.com/learn/data-cleaning) |
 
-> **Quick Hub Access:** [🟦 IBM](https://cognitiveclass.ai/courses) · [🟨 Google](https://www.cloudskillsboost.google/catalog) · [🔴 Cisco](https://skillsforall.com/catalog) · [💠 freeCodeCamp](https://www.freecodecamp.org/learn/) · [🎓 Kaggle](https://www.kaggle.com/learn)
+> **Quick Hub Access:** [🟦 IBM](https://cognitiveclass.ai/courses) · [🟨 Google](https://www.skills.google/catalog) · [🔴 Cisco](https://www.netacad.com/catalogs/learn) · [💠 freeCodeCamp](https://www.freecodecamp.org/learn/) · [🎓 Kaggle](https://www.kaggle.com/learn)
 
 ---
 
@@ -211,14 +211,14 @@ flowchart TD
 | 💠 fCC | Scientific Computing with Python | 🟢 Beginner | 300h | [freecodecamp.org](https://www.freecodecamp.org/learn/scientific-computing-with-python/) |
 | 💠 fCC / 🟩 MS | Foundational C# with Microsoft | 🟢 Beginner | 300h | [freecodecamp.org](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) |
 | 🎓 Kaggle | Python | 🟢 Beginner | 5h | [kaggle.com/learn/python](https://www.kaggle.com/learn/python) |
-| 🔴 Cisco | Python Essentials 1 | 🟢 Beginner | 30h | [skillsforall.com/catalog](https://skillsforall.com/catalog) |
-| 🔴 Cisco | Python Essentials 2 | 🟡 Intermediate | 40h | [skillsforall.com/catalog](https://skillsforall.com/catalog) |
-| 🔴 Cisco | Programming Essentials in C++ | 🟢 Beginner | 70h | [skillsforall.com/catalog](https://skillsforall.com/catalog) |
-| 🟦 IBM | Go (Golang) Basics | 🟢 Beginner | 10h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/go-basics) |
+| 🔴 Cisco | Python Essentials 1 | 🟢 Beginner | 30h | [netacad.com](https://www.netacad.com/courses/python-essentials-1?courseLang=en-US) |
+| 🔴 Cisco | Python Essentials 2 | 🟡 Intermediate | 40h | [netacad.com](https://www.netacad.com/courses/python-essentials-2?courseLang=en-US) |
+| 🔴 Cisco | C++ Essentials 1 | 🟢 Beginner | 70h | [netacad.com](https://www.netacad.com/courses/c-plus-plus-essentials-1?courseLang=en-US) |
+| 🟦 IBM | Python for Data Science | 🟢 Beginner | 18h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/python-for-data-science) |
 | 🟦 IBM | Reactive Architecture: Intro | 🟡 Intermediate | 6h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/reactive-architecture-introduction) |
-| 🔘 GLC | Java Tutorial Certificate | 🟢 Beginner | 4h | [mygreatlearning.com](https://www.mygreatlearning.com/academy/learn-for-free/courses/java-programming) |
+| 🟩 MS | Get Started with Java on Azure | 🟢 Beginner | 4h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/get-started-java-azure/) |
 
-> **Quick Hub Access:** [🟦 IBM](https://cognitiveclass.ai/courses) · [🟩 Microsoft](https://learn.microsoft.com/en-us/training/browse/) · [🔴 Cisco](https://skillsforall.com/catalog) · [🟣 Harvard](https://cs50.harvard.edu/) · [💠 freeCodeCamp](https://www.freecodecamp.org/learn/) · [🎓 Kaggle](https://www.kaggle.com/learn)
+> **Quick Hub Access:** [🟦 IBM](https://cognitiveclass.ai/courses) · [🟩 Microsoft](https://learn.microsoft.com/en-us/training/browse/) · [🔴 Cisco](https://www.netacad.com/catalogs/learn) · [🟣 Harvard](https://cs50.harvard.edu/) · [💠 freeCodeCamp](https://www.freecodecamp.org/learn/) · [🎓 Kaggle](https://www.kaggle.com/learn)
 
 ---
 
@@ -235,7 +235,7 @@ flowchart TD
 | 🟩 MS | Build Web Apps with Blazor | 🟢 Beginner | 5h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/build-web-apps-with-blazor/) |
 | 💠 fCC | Information Security | 🔴 Advanced | 300h | [freecodecamp.org](https://www.freecodecamp.org/learn/information-security/) |
 | 💠 fCC | Quality Assurance | 🔴 Advanced | 300h | [freecodecamp.org](https://www.freecodecamp.org/learn/quality-assurance/) |
-| 🟩 MS | Build a Web API with ASP.NET | 🟢 Beginner | 4h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/aspnet-core-web-api/) |
+| 🟩 MS | Build Web Apps with ASP.NET Core | 🟢 Beginner | 3h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/aspnet-core-web-app/) |
 
 > **Quick Hub Access:** [🟩 Microsoft](https://learn.microsoft.com/en-us/training/browse/) · [🟣 Harvard](https://cs50.harvard.edu/) · [💠 freeCodeCamp](https://www.freecodecamp.org/learn/)
 
@@ -245,18 +245,18 @@ flowchart TD
 
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
-| 🟧 AWS | AWS Cloud Practitioner Badge | 🟢 Beginner | 15h | [aws.amazon.com/education/awseducate](https://aws.amazon.com/education/awseducate/) |
+| 🟧 AWS | AWS Cloud Quest: Cloud Practitioner | 🟢 Beginner | 15h | [skillbuilder.aws](https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/) |
 | 🟩 MS | Azure Fundamentals Badge | 🟢 Beginner | 10h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/) |
-| 🟨 Google | Cloud Computing Foundations | 🟢 Beginner | 20h | [cloudskillsboost.google](https://www.cloudskillsboost.google/paths/11) |
-| 🟦 IBM | IBM Cloud Essentials | 🟢 Beginner | 6h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/ibm-cloud-essentials) |
-| 🟦 IBM | Serverless Computing using Cloud | 🟡 Intermediate | 5h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/serverless-computing) |
+| 🟨 Google | Cloud Computing Foundations | 🟢 Beginner | 32h | [skills.google/paths/36](https://www.skills.google/paths/36) |
+| 🟦 IBM | IBM Cloud Essentials (CC0103EN) | 🟢 Beginner | 6h | [cognitiveclass.ai](https://apps.cognitiveclass.ai/learning/course/course-v1:IBMDeveloperSkillsNetwork+CC0103EN+v3/home) |
+| 🟦 IBM | Serverless Computing (Cloud Functions) | 🟡 Intermediate | 4h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/serverless-computing-using-cloud-functions-developer-i) |
 | 🟦 IBM | Cloud Core | 🟢 Beginner | 5h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/introduction-to-cloud) |
 | 🟦 IBM | Container & Kubernetes Essentials | 🟡 Intermediate | 15h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/kubernetes-course) |
-| 🟦 IBM | Cloud Architecture Foundations | 🟡 Intermediate | 10h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/cloud-architecture-foundations) |
+| 🟦 IBM | Microservices and Serverless | 🟡 Intermediate | 14h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/application-development-using-microservices-and-serverless) |
 | 🟩 MS | Administer Active Directory | 🟡 Intermediate | 6h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/active-directory-domain-services/) |
-| 🟧 AWS | AWS Getting Started | 🟢 Beginner | 5h | [explore.skillbuilder.aws](https://explore.skillbuilder.aws) |
+| 🟧 AWS | AWS Getting Started | 🟢 Beginner | 5h | [skillbuilder.aws](https://skillbuilder.aws/category/getstarted?refid=free-steps) |
 
-> **Quick Hub Access:** [🟦 IBM](https://cognitiveclass.ai/courses) · [🟨 Google](https://www.cloudskillsboost.google/catalog) · [🟩 Microsoft](https://learn.microsoft.com/en-us/training/browse/) · [🟧 AWS](https://explore.skillbuilder.aws)
+> **Quick Hub Access:** [🟦 IBM](https://cognitiveclass.ai/courses) · [🟨 Google](https://www.skills.google/catalog) · [🟩 Microsoft](https://learn.microsoft.com/en-us/training/browse/) · [🟧 AWS](https://skillbuilder.aws)
 
 ---
 
@@ -264,18 +264,18 @@ flowchart TD
 
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
-| 🔴 Cisco | Intro to Cybersecurity | 🟢 Beginner | 15h | [skillsforall.com](https://skillsforall.com/course/introduction-to-cybersecurity) |
-| 🔴 Cisco | Cybersecurity Essentials | 🟡 Intermediate | 30h | [skillsforall.com](https://skillsforall.com/course/cybersecurity-essentials) |
-| 🔘 Fortinet | Info Security Awareness (NSE 1) | 🟢 Beginner | 2h | [training.fortinet.com](https://training.fortinet.com/) |
-| 🔘 Fortinet | Evolution of Cybersecurity (NSE 2) | 🟡 Intermediate | 4h | [training.fortinet.com](https://training.fortinet.com/) |
-| 🔴 Cisco | Endpoint Security | 🟡 Intermediate | 27h | [skillsforall.com](https://skillsforall.com/course/endpoint-security) |
-| 🔴 Cisco | Network Defense | 🟡 Intermediate | 27h | [skillsforall.com](https://skillsforall.com/course/network-defense) |
-| 🔴 Cisco | Cyber Threat Management | 🔴 Advanced | 16h | [skillsforall.com](https://skillsforall.com/course/cyber-threat-management) |
-| 🟩 MS | Describe Security Concepts | 🟡 Intermediate | 5h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/describe-security-concepts/) |
-| 🔘 GLC | Ethical Hacking Essentials | 🟢 Beginner | 15h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/ethical-hacking-basics) |
-| 🔘 U.Maryland | Intro to Hardware Security | 🔴 Advanced | 12h | [coursera.org](https://www.coursera.org/learn/hardware-security) |
+| 🔴 Cisco | Intro to Cybersecurity | 🟢 Beginner | 15h | [netacad.com](https://www.netacad.com/courses/introduction-to-cybersecurity) |
+| 🔴 Cisco | Cybersecurity Essentials | 🟡 Intermediate | 30h | [netacad.com](https://www.netacad.com/courses/cybersecurity-essentials) |
+| 🔘 Fortinet | Info Security Awareness (NSE 1) | 🟢 Beginner | 2h | [training.fortinet.com](https://training.fortinet.com/local/staticpage/view.php?page=library_information-security-awareness) |
+| 🔘 Fortinet | Evolution of Cybersecurity (NSE 2) | 🟡 Intermediate | 4h | [training.fortinet.com](https://training.fortinet.com/local/staticpage/view.php?page=library_the-evolution-of-cybersecurity) |
+| 🔴 Cisco | Endpoint Security | 🟡 Intermediate | 27h | [netacad.com](https://www.netacad.com/courses/endpoint-security) |
+| 🔴 Cisco | Network Defense | 🟡 Intermediate | 27h | [netacad.com](https://www.netacad.com/courses/network-defense) |
+| 🔴 Cisco | Cyber Threat Management | 🔴 Advanced | 16h | [netacad.com](https://www.netacad.com/courses/cyber-threat-management) |
+| 🟩 MS | Security, Compliance & Identity Concepts | 🟢 Beginner | 5h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/describe-concepts-of-security-compliance-identity/) |
+| 🔴 Cisco | Ethical Hacker | 🔴 Advanced | 70h | [netacad.com](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US) |
+| 🟩 MS | Introduction to Microsoft Security Solutions | 🟢 Beginner | 5h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-security-solutions/) |
 
-> **Quick Hub Access:** [🟩 Microsoft](https://learn.microsoft.com/en-us/training/browse/) · [🔴 Cisco](https://skillsforall.com/catalog) · [🔘 Fortinet](https://training.fortinet.com/)
+> **Quick Hub Access:** [🟩 Microsoft](https://learn.microsoft.com/en-us/training/browse/) · [🔴 Cisco](https://www.netacad.com/catalogs/learn) · [🔘 Fortinet](https://training.fortinet.com/)
 
 ---
 
@@ -284,17 +284,17 @@ flowchart TD
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
 | 🟦 IBM | Docker Essentials | 🟢 Beginner | 5h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/docker-essentials) |
-| 🟦 IBM | Build Kubernetes Operators | 🟡 Intermediate | 4h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/build-kubernetes-operators) |
-| 🔴 Cisco | NDG Linux Unhatched | 🟢 Beginner | 8h | [skillsforall.com](https://skillsforall.com/course/linux-unhatched) |
-| 🔴 Cisco | NDG Linux Essentials | 🟡 Intermediate | 70h | [skillsforall.com](https://skillsforall.com/course/linux-essentials) |
-| 🟩 MS | Automate Deployments with GitHub | 🟢 Beginner | 4h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/automate-deployments-github-actions/) |
-| 🔘 GLC | DevOps Foundations | 🟡 Intermediate | 4h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/devops-foundations) |
-| 🔘 GLC | Version Control with Git | 🟢 Beginner | 3h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/git-and-github-crash-course) |
-| 🟩 MS | Implement CI/CD with Azure | 🟡 Intermediate | 5h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/implement-ci-cd-azure-devops/) |
-| 🔘 GLC | SRE Basics | 🟡 Intermediate | 3h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/site-reliability-engineering) |
-| 🔘 GLC | Ansible Basics | 🔴 Advanced | 2h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/ansible-basics) |
+| 🟦 IBM | Kubernetes Operators Intermediate | 🟡 Intermediate | 7h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/kubernetes-operators-intermediate) |
+| 🔴 Cisco | NDG Linux Unhatched | 🟢 Beginner | 8h | [netacad.com](https://www.netacad.com/courses/linux-unhatched) |
+| 🔴 Cisco | NDG Linux Essentials | 🟡 Intermediate | 70h | [netacad.com](https://www.netacad.com/courses/linux-essentials) |
+| 🟩 MS | Automate Workflows with GitHub Actions | 🟢 Beginner | 6h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/github-actions/) |
+| 🟦 IBM | Introduction to DevOps | 🟢 Beginner | 9h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/introduction-to-devops) |
+| 🟦 IBM | Getting Started with Git and GitHub | 🟢 Beginner | 7h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/getting-started-with-git-and-github) |
+| 🟩 MS | Implement CI with Azure Pipelines & GitHub Actions | 🟡 Intermediate | 5h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/az-400-implement-ci-azure-pipelines-github-actions/) |
+| 🟦 IBM | Continuous Integration and Continuous Delivery | 🟡 Intermediate | 14h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/continuous-integration-and-continuous-delivery-ci-cd) |
+| 🟦 IBM | Linux Commands and Shell Scripting | 🟢 Beginner | 14h | [cognitiveclass.ai](https://cognitiveclass.ai/courses/hands-on-introduction-to-linux-commands-and-shell-scripting) |
 
-> **Quick Hub Access:** [🟦 IBM](https://cognitiveclass.ai/courses) · [🟩 Microsoft](https://learn.microsoft.com/en-us/training/browse/) · [🔴 Cisco](https://skillsforall.com/catalog)
+> **Quick Hub Access:** [🟦 IBM](https://cognitiveclass.ai/courses) · [🟩 Microsoft](https://learn.microsoft.com/en-us/training/browse/) · [🔴 Cisco](https://www.netacad.com/catalogs/learn)
 
 ---
 
@@ -302,18 +302,18 @@ flowchart TD
 
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
-| 🟨 Google | Android Basics with Compose | 🟢 Beginner | 50h | [developer.android.com/courses](https://developer.android.com/courses/android-basics-compose/course) |
-| 🟨 Google | Advanced Android in Kotlin | 🟡 Intermediate | 30h | [developer.android.com/courses](https://developer.android.com/courses/advanced-training/overview) |
+| 🟨 Google | Android Basics with Compose | 🟢 Beginner | 100h | [developer.android.com/courses](https://developer.android.com/courses/android-basics-compose/course) |
+| 🟨 Google | Jetpack Compose for Android Developers | 🟡 Intermediate | 30h | [developer.android.com/courses](https://developer.android.com/courses/jetpack-compose/course) |
 | 🟣 Harvard | CS50's Intro to Game Development | 🟢 Beginner | 60h | [cs50.harvard.edu/games](https://cs50.harvard.edu/games/) |
 | 🟩 MS | Build Mobile Apps with .NET MAUI | 🟢 Beginner | 8h | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/paths/build-apps-with-dotnet-maui/) |
-| 🔘 GLC | React Native Fundamentals | 🟢 Beginner | 3h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/react-native) |
-| 🔘 GLC | iOS App Development Basics | 🟢 Beginner | 3h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/ios-app-development-basics) |
-| 🔘 GLC | Flutter Basics | 🟢 Beginner | 2h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/flutter-basics) |
-| 🟨 Google | Kotlin Bootcamp for Programmers | 🟢 Beginner | 15h | [developer.android.com/courses](https://developer.android.com/courses/kotlin-bootcamp/overview) |
-| 🔘 GLC | Mobile App Dev with Python | 🟡 Intermediate | 2h | [mygreatlearning.com/academy](https://www.mygreatlearning.com/academy/learn-for-free/courses/mobile-app-development-with-python) |
-| 🟨 Google | Architecture Components | 🔴 Advanced | 10h | [developer.android.com/courses](https://developer.android.com/courses/architecture-components/overview) |
+| 🟨 Google | Android Basics with Compose and Firebase | 🟢 Beginner | 8h | [developer.android.com/courses](https://developer.android.com/courses/android-basics-compose-firebase/course) |
+| 🟨 Google | Build Apps with Flutter | 🟢 Beginner | 2h | [developers.google.com](https://developers.google.com/learn/pathways/intro-to-flutter) |
+| 🟨 Google | Introduction to Programming in Kotlin | 🟢 Beginner | 3h | [developer.android.com/courses](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1) |
+| 🟨 Google | Compose Architecture and State | 🟡 Intermediate | 10h | [developer.android.com/courses](https://developer.android.com/courses/pathways/jetpack-compose-for-android-developers-3) |
+| 🟨 Google | Flutter + Firebase Cross-Platform | 🟡 Intermediate | 4h | [developers.google.com](https://developers.google.com/learn/pathways/firebase-flutter-realtime) |
+| 🟨 Google | Material Design for Flutter | 🟢 Beginner | 3h | [developers.google.com](https://developers.google.com/learn/pathways/mdc-flutter) |
 
-> **Quick Hub Access:** [🟨 Google](https://www.cloudskillsboost.google/catalog) · [🟩 Microsoft](https://learn.microsoft.com/en-us/training/browse/) · [🟣 Harvard](https://cs50.harvard.edu/)
+> **Quick Hub Access:** [🟨 Google](https://developer.android.com/courses) · [🟩 Microsoft](https://learn.microsoft.com/en-us/training/browse/) · [🟣 Harvard](https://cs50.harvard.edu/)
 
 ---
 
@@ -321,10 +321,10 @@ flowchart TD
 
 | Provider | Certification Name | Difficulty | Est. Time | 🔗 Link |
 | :--- | :--- | :---: | :---: | :--- |
-| 🧡 Anthropic | Claude 101 | 🟢 Beginner | 1h | [anthropic.skilljar.com](https://anthropic.skilljar.com/) |
-| 🧡 Anthropic | AI Fluency: Framework | 🟢 Beginner | 1h | [anthropic.skilljar.com](https://anthropic.skilljar.com/) |
-| 🧡 Anthropic | Building with Claude API | 🟡 Intermediate | 8h | [anthropic.skilljar.com](https://anthropic.skilljar.com/) |
-| 🧡 Anthropic | Intro to MCP | 🟡 Intermediate | 3h | [anthropic.skilljar.com](https://anthropic.skilljar.com/) |
+| 🧡 Anthropic | Claude 101 | 🟢 Beginner | 1h | [anthropic.skilljar.com/claude-101](https://anthropic.skilljar.com/claude-101) |
+| 🧡 Anthropic | AI Fluency: Framework & Foundations | 🟢 Beginner | 1h | [anthropic.skilljar.com](https://anthropic.skilljar.com/ai-fluency-framework-foundations) |
+| 🧡 Anthropic | Building with the Claude API | 🟡 Intermediate | 8h | [anthropic.skilljar.com](https://anthropic.skilljar.com/claude-with-the-anthropic-api) |
+| 🧡 Anthropic | Intro to Model Context Protocol | 🟡 Intermediate | 3h | [anthropic.skilljar.com](https://anthropic.skilljar.com/introduction-to-model-context-protocol) |
 | 🧡 Anthropic | Claude Code in Action | 🔴 Advanced | 5h | [anthropic.skilljar.com/claude-code-in-action](https://anthropic.skilljar.com/claude-code-in-action) |
 
 > **Quick Hub Access:** [🧡 Anthropic](https://anthropic.skilljar.com/)
@@ -336,14 +336,14 @@ flowchart TD
 ### 🟩 1. Microsoft Cloud Skills Challenges
 Microsoft runs **30-day learning sprints** tied to events like *Microsoft Ignite*. Complete the path → get a **100% off exam voucher**.
 
-📅 **Where to watch:** [Microsoft Learn Events Page](https://learn.microsoft.com/en-us/events/)
+📅 **Where to watch:** [Microsoft Learn Challenges](https://learn.microsoft.com/en-us/challenges/)
 
 ---
 
 ### 🟧 2. AWS Community Builders & AWSome Days
 Attending **AWS Summits** or **AWSome Days** often yields **50–100% off exam vouchers**.
 
-📅 **Where to apply:** [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
+📅 **Where to apply:** [AWS Community Builders](https://builder.aws.com/community/community-builders)
 
 ---
 
@@ -370,7 +370,7 @@ PRs are welcome! Help us keep links updated or add new free certificates.
 
 **Built with ❤️ for lifelong learners everywhere.**
 
-*Last updated: April 2026*
+*Last updated: September 2026*
 
 ![Star History](https://img.shields.io/github/stars/Troy-LL/The-Free-Credential-Index?style=social)
 
